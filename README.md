@@ -1,6 +1,6 @@
 # MPLS BGP VPN with SOO
 
-![Topology](./images/topology.png)
+![Topology](./topology.jpg)
 
 ## Summary
 
