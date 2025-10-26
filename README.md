@@ -8,10 +8,10 @@ MPLS L3VPN configuration supporting same customer AS number (AS 65000) at both s
 
 ## Configs
 
-- [CE1.cfg](./configs/CE1.cfg) - Customer Edge 1 (AS 65000)
-- [PE1.cfg](./configs/PE1.cfg) - Provider Edge 1 (VRF + SOO + AS-OVERRIDE)
-- [PE2.cfg](./configs/PE2.cfg) - Provider Edge 2 (VRF + SOO + AS-OVERRIDE)
-- [CE2.cfg](./configs/CE2.cfg) - Customer Edge 2 (AS 65000)
+- [CE1.cfg](CE1.cfg) - Customer Edge 1 (AS 65000)
+- [PE1.cfg](PE1.cfg) - Provider Edge 1 (VRF + SOO + AS-OVERRIDE)
+- [PE2.cfg](PE2.cfg) - Provider Edge 2 (VRF + SOO + AS-OVERRIDE)
+- [CE2.cfg](CE2.cfg) - Customer Edge 2 (AS 65000)
 
 ## Verification
 
