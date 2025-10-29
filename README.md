@@ -21,12 +21,17 @@ See topology.png for network diagram and device connections.
 All configurations have been tested and verified in this environment.
 
 
-## Configs
+## 📁 Lab Files
 
-- [CE1.cfg](CE1.cfg) - Customer Edge 1 (AS 65000)
-- [PE1.cfg](PE1.cfg) - Provider Edge 1 (VRF + SOO + AS-OVERRIDE)
-- [PE2.cfg](PE2.cfg) - Provider Edge 2 (VRF + SOO + AS-OVERRIDE)
-- [CE2.cfg](CE2.cfg) - Customer Edge 2 (AS 65000)
+**EVE-NG Topology File:** [Download 2MPLS-VPN-SOO.unl](https://raw.githubusercontent.com/mikio-abe/network-lab-03-mpls-bgp-vpn-soo/main/2MPLS-VPN-SOO.unl)
+
+Right-click the link above and select "Save Link As..." to download the complete EVE-NG lab topology file.
+
+### Configuration Files:
+- [CE1.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-03-mpls-bgp-vpn-soo/main/CE1.cfg) - Customer Edge 1 (AS 65000)
+- [CE2.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-03-mpls-bgp-vpn-soo/main/CE2.cfg) - Customer Edge 2 (AS 65000 - Same AS!)
+- [PE1.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-03-mpls-bgp-vpn-soo/main/PE1.cfg) - Provider Edge 1 (VRF + SOO + AS-OVERRIDE)
+- [PE2.cfg](https://raw.githubusercontent.com/mikio-abe/network-lab-03-mpls-bgp-vpn-soo/main/PE2.cfg) - Provider Edge 2 (VRF + SOO + AS-OVERRIDE)
 
 ## Verification
 
